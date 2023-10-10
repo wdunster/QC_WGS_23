@@ -1,7 +1,7 @@
 ---
 layout: post
 title: E.Z.N.A. Mollusc DNA Kit
-categories: Protocol Queen_Conch
+categories: Protocol QC WGS
 tags: 
 ---
 
@@ -35,7 +35,7 @@ Supplied by PRADA Lab:
 - 100% Ethanol
 - 100% isopropanol
 - Chloroform:isoamyl alcohol (24:1)
-- 3M NaOH
+- 3M NaOH (1M solid --> 3M liquid)
 
 
 **Reagent Prep**
@@ -43,24 +43,25 @@ Supplied by PRADA Lab:
 - Dilute Buffers 
 
 | Reagent         | Dilution                 | 
+|-----------------|--------------------------|
 | HBC Buffer      | 32mL 100% isopropanol    | 
 | DNA Wash Buffer | 100mL / bottle 100% EtOH | 
 
 
 - Aliqot reagents 
 
-| Reagent                    | 1 rxn     | Aliqot | 
-|----------------------------|-----------|--------|
-| ML1 Buffer                 | 350 uL    |        |
-| Proteinase K               | 25 uL     |        |
-| Chloroform:isoamyl alcohol | 350 uL    | NA     |
-| BL Buffer                  | 1 vol     | NA     | 
-| RNase A                    | 10 uL     |        |
-| 100% EtOH                  | 1 vol     | NA     | 
-| 3M NaOH                    | 100 uL    |        |
-| HBC Buffer                 | 500 uL    |        | 
-| DNA Wash Buffer            | 2x 700 uL |        | 
-| Elution Buffer             | 50-100 uL |        |
+| Reagent                    | 1 rxn (uL) | 8 rxn (uL) | 10% error | Total aliquot (uL)|
+|----------------------------|------------|------------|-----------| ------------------|
+| ML1 Buffer                 | 350 uL     | 2800       | 280       | 3080              |
+| Proteinase K               | 25 uL      | 20         | 20        | 220               |
+| Chloroform:isoamyl alcohol | 350 uL     | 2800       | 280       | 3080              |
+| BL Buffer                  | 1 vol      | 2800       | 280       | 3080              |
+| RNase A                    | 10 uL      | 80         | 8         | 88                |
+| 100% EtOH                  | 1 vol      | 2800       | 280       | 3080              |
+| 3M NaOH                    | 100 uL     | 800        | 80        | 880               |
+| HBC Buffer                 | 500 uL     | 4000       | 400       | 4400              |
+| DNA Wash Buffer            | 2x 700 uL  | 1120       | 1120      | 12,320            |
+| Elution Buffer             | 50-100 uL  | 800        | 80        | 880               |
 
 
 
