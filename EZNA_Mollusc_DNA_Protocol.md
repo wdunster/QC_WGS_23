@@ -189,13 +189,33 @@ Matias has found a clean up using [Zymo Clean and Concentrate Kit](https://files
 
 Steps: 
 
-1. Add _ volumes of DNA Binding Buffer to each volume of DNA. Vortex to mix
+1. Warm DNA elution buffer (10mM Tris HCL) to 70C
 
-2. Transfer the mixture to a Zymo-Spin Colummn in a Collection Tube
+2. Transfer 20-100 uL DNA into a 1.5 mL tube
 
-3. Cetrifuge for 30 sec and discard the flow through 
+3. Add double the DNA volume of DNA binding buffer to each tube
 
-4. Add 200uL DNA Wash Buffer to the column and centrifuge for 30 sec. Repeat step 4. 
+4. Votex briefly
 
-5. Add 6uL of Elution Buffer to the column matrix and incubate at room temperature for 1 min. Transfer the column to a new 1.5 mL microcentrifuge tube and centrifuge for 30 sec to elute the DNA. 
+5. Transfer the mixture to a Zymo-Spin Colummn in a Collection Tube
+
+6. Cetrifuge for 30 sec at 3500g and 
+
+7. Discard flow through 
+
+8. Add 200uL DNA Wash Buffer to the column and centrifuge for 30 sec.  
+
+9. Centrifuge for 30 sec at 3,500 g 
+
+10. Discard flow through
+
+10. Repeat steps 8-9
+
+11. Transfer the column to a new 1.5 mL microcentrifuge tube
+
+12. Add 20 - 100uL of warmed elution buffer to the column matrix 
+
+13. Incubate at room temperature for 1 min
+
+14. Centrifuge for 30 sec at 3,500 g to elute the DNA 
 
