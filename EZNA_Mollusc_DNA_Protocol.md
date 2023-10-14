@@ -12,6 +12,7 @@ tags:
 - [**Digestion**](#dig)     
 - [**Separating DNA**](#sep)      
 - [**Precipitating DNA**](#prec)    
+- [**Clean Up**](#clean)
 
 ## <a name="prep"></a> **Preparing Reagents**
 
@@ -181,4 +182,20 @@ Steps:
 
 36. Store DNA at -20C
 
+
+## <a name="clean"></a> **Clean Up**
+
+Matias has found a clean up using [Zymo Clean and Concentrate Kit](https://files.zymoresearch.com/protocols/_d4003t_d4003_d4004_d4013_d4014_dna_clean_concentrator_-5.pdf) after the extraction gives higher yields downstream
+
+Steps: 
+
+1. Add _ volumes of DNA Binding Buffer to each volume of DNA. Vortex to mix
+
+2. Transfer the mixture to a Zymo-Spin Colummn in a Collection Tube
+
+3. Cetrifuge for 30 sec and discard the flow through 
+
+4. Add 200uL DNA Wash Buffer to the column and centrifuge for 30 sec. Repeat step 4. 
+
+5. Add 6uL of Elution Buffer to the column matrix and incubate at room temperature for 1 min. Transfer the column to a new 1.5 mL microcentrifuge tube and centrifuge for 30 sec to elute the DNA. 
 
