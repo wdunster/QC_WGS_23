@@ -13,10 +13,10 @@ Oct 14 -- 7:15pm
 |-----------|------------|
 | BVI_1_DM  | DMSO       |
 | BVI_2_DM  | DMSO       |
-| BVI_1_DM  | DMSO       |
+| BVI_3_DM  | DMSO       |
 | BVI_1_DS  | DNA Shield |
-| BVI_1_DS  | DNA Shield |
-| BVI_1_DS  | DNA Shield |
+| BVI_2_DS  | DNA Shield |
+| BVI_3_DS  | DNA Shield |
 | Blank     | DNA Shield | 
 
 What I did:
