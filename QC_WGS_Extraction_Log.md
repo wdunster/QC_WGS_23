@@ -5,7 +5,42 @@ categories: QC WGS Extraction
 tags: 
 ---
 
-## Extraction 1 - Oct 14 & 15
+## Extraction 2 -- Oct 16 & 17
+| Sample ID | Preserve   | 
+|-----------|------------|
+| BVI_4_DM  | DMSO       |
+| BVI_5_DM  | DMSO       |
+| BVI_6_DM  | DMSO       |
+| BVI_4_DS  | DNA Shield |
+| BVI_5_DS  | DNA Shield |
+| BVI_6_DS  | DNA Shield |
+| BVI2_B    | Blank      | 
+
+Oct 16
+
+Notes: 
+- Incubation start 5:35 pm
+- I remembered to do both ML1 and Proteinase K this time 
+- Note that DS samples with PK immediately turned white and milky upon vortexing, but cleared once placed in the thermomixer
+
+Steps;
+1. Preheated Thermomixer to 56C 
+2. UV'd 10 microcentrifuge tubes, 8 scalpel, 3 forceps, and pipette tips 
+3. Labeled 8 tubes with sample ID and 3 tubes with sample ID and molecular water
+4. Thawed samples on ice
+5. Filled one 1.5 mL tube for every DMSO sample with 1 mL of molecular water
+6. Using forceps I removed BVI_1_DM  stored in DMSO, cut a 2ish cm piece with a scalpel, and placed it in the corresponding molec water tube. Soaked scalpel in a 70% Bleach solution
+7. Rinsed forceps with molecular water
+8. Using the rinsed forceps I removed BVI_1_DS  stored in DNA Shield, cut a 2ish cm piece with a new scalpel, and placed it in the corresponding 1.5 mL tube. Soaked scalpel in 70% bleach
+9. Rinsed forceps in molec water 
+10. Using the rinsed forceps, I moved the BVI_1_DM sample soaking in molec water to a new 1.5 mL tube
+11. Placed the tube on ice and forceps in 70% bleach bath (with scalpels)
+12. Added 350uL of ML1 and 25 uL of Proteinase K to each tube
+13. Started incubation in thermomixer (Oct 16 5:35pm - Oct 17 7:30am)
+
+
+
+## Extraction 1 -- Oct 14 & 15
 
 Oct 14 -- 7:15pm 
 
@@ -17,7 +52,7 @@ Oct 14 -- 7:15pm
 | BVI_1_DS  | DNA Shield |
 | BVI_2_DS  | DNA Shield |
 | BVI_3_DS  | DNA Shield |
-| Blank     | DNA Shield | 
+| BVI1_B    | Blank      | 
 
 What I did:
 1. Preheated Thermomixer to 56C 
@@ -38,7 +73,21 @@ What I did:
 Notes: 
 - Started bath at 8:13pm 
 - Need to thaw DS samples for 10-15 mins
-- 
+
+
+Oct 15 -- 10:30 am 
+
+Note I forgot to add proetinase K last night. I added at 10:30 and will incubate at 60C for 30 mins 
+
+Notes: 
+- 300 uL BL
+- Everything has to happen in the fume hood 
+- Prep hazardous waste disposal for all tips, liquids, and gloves
+- Only 750 uL sample inserted to minicolumns 
+- Dried minicolumns at 15,000g for 2 min
+- 75 uL Elution buffer (double check personal protocol to see if i have a step to heat it)
+- Modify reagent aliquot to include a second elution step 
+- I decided not to do the additional clean up because I forgot the PK in the digestion step. I want to see if this worked to begin with. 
 
 
 

@@ -13,6 +13,7 @@ tags:
 - [**Separating DNA**](#sep)      
 - [**Precipitating DNA**](#prec)    
 - [**Clean Up**](#clean)
+- [**Quantify**](#quant)
 
 ## <a name="prep"></a> **Preparing Reagents**
 
@@ -76,7 +77,7 @@ Prep:
 - Molecular water and a beaker for washing samples in DMSO
 - n scalpal blades
 - n 1.5 mL microcentrifuge tubes
-- preheat bead bath to 37C
+- preheat bead bath to 56C
 
 
 Steps: 
@@ -87,9 +88,9 @@ Steps:
 
 3. Using a scalpal, cut a small 2x2 cm cube of tissue from the original sample and place in a 1.5mL microcentrifuge tube. This should be around 30 mg of tissue
 
-4. dd 350 uL of ML1 Buffer and 25 uL Proteinase K Solution. Votex to mix
+4. dd 350 uL of ML1 Buffer AND 25 uL Proteinase K Solution. Votex to mix
 
-5. Incubate 15 hrs at 37C in bead bath
+5. Incubate 15 hrs at 56C in thermomixer
 
 6. Clean scalpal blades as follows: 3x rinse with 80% bleach; 2x rinse with 70% EtOH; 2x rinse with DI 2
  
@@ -138,7 +139,7 @@ Steps:
 
 14. Insert 1 HiBind DNA Mini Column into a 2mL Collection Tube 
 
-15. To equilibrate the columns (optional) add 100 uL 3M NaOH to the minicolumn, centrifuge at mmax speed for 60 sec, discard the filtrate and reuse the collection tube
+15. To equilibrate the columns (optional) add 100 uL 3M NaOH to the minicolumn, centrifuge at max speed for 60 sec, discard the filtrate and reuse the collection tube
 
 16. Transfer 750 uL of sample from 1.5 mL microcentrifuge tube to the minicolumn (include any precipitates)
 
@@ -218,4 +219,9 @@ Steps:
 13. Incubate at room temperature for 1 min
 
 14. Centrifuge for 30 sec at 3,500 g to elute the DNA 
+
+
+## <a name="quant"></a> **Quantify**
+
+Quantify DNA concentration using [Qbit](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/Biotium_Prada_DNA_Qubit.md)
 
