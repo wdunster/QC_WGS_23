@@ -5,6 +5,28 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+
+## Extraction 3 -- Oct 19
+| Sample ID | Preserve   | 
+|-----------|------------|
+| BVI_7_DM  | DMSO       |
+| BVI__DM   | DMSO       |
+| BVI_9_DM  | DMSO       |
+| BVI_7_DS  | DNA Shield |
+| BVI_8_DS  | DNA Shield |
+| BVI_9_DS  | DNA Shield |
+| BVI3_B    | Blank      | 
+
+Changes to protocol: 
+- Reduced size of tissue sample to about 1x1 cm 
+- added 30 uL Proteinase K
+- incubate in the thermomixer for 4 hrs at 56C and 600 rpm
+
+Notes: 
+- incubation 9am to 1pm
+- 
+
+
 ## Extraction 2 -- Oct 16 & 17
 | Sample ID | Preserve   | 
 |-----------|------------|
@@ -38,6 +60,14 @@ Steps;
 12. Added 350uL of ML1 and 25 uL of Proteinase K to each tube
 13. Started incubation in thermomixer (Oct 16 5:35pm - Oct 17 7:30am)
 
+
+Oct 17
+- Samples off thermomixer at 8:23
+- 200 uL vol
+- 500 uL sample into the minicolumn
+- 2x elution with 50 uL elution buffer
+- Transferred 50uL of DNA to new tubes for the clean up
+-50 uL elution buffer
 
 
 ## Extraction 1 -- Oct 14 & 15

@@ -114,7 +114,7 @@ Steps:
 
 9. Transfer the upper aqueous phase to a clean 1.5 mL microcentrifuge tube. Avoid the milky interface
 
-10. Add 1 volume BL Buffer (equal to the amount of liquid from the upper aqueous phase) and 10 uL RNase A. Vortex at max speed for 15 mins
+10. Add 1 volume BL Buffer (equal to the amount of liquid from the upper aqueous phase) and 10 uL RNase A. Vortex at max speed for 15 sec
 
 11. Incubate at 70C for 10 mins
 
@@ -204,7 +204,7 @@ Steps:
 
 7. Discard flow through 
 
-8. Add 200uL DNA Wash Buffer to the column and centrifuge for 30 sec.  
+8. Add 200uL DNA Wash Buffer to the column   
 
 9. Centrifuge for 30 sec at 3,500 g 
 
