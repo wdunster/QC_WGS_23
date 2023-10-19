@@ -20,11 +20,28 @@ tags:
 Changes to protocol: 
 - Reduced size of tissue sample to about 1x1 cm 
 - added 30 uL Proteinase K
-- incubate in the thermomixer for 4 hrs at 56C and 600 rpm
+- incubate in the thermomixer for 4 hrs at 59C and 600 rpm
+- 1 vol = 250 uL
+- x2 50 uL elution buffer elutions
 
 Notes: 
 - incubation 9am to 1pm
-- 
+- At 12:30 the tissue was well broken down in all tubes. Previously after the incubation period the tissue has still been well intact. I vortexed all tubes quickly to make sure all tissue was broken up. The only tube left with a small piece of tissue was BVI_8_DMSO
+- 50 uL into the clean and concetrate cleanup
+- Added 30 uL elution buffer for clean up elution
+
+Qbit after clean up
+| Sample ID | Qbit  | 
+|-----------|-------|
+| BVI_7_DM  | 14.05 |
+| BVI__DM   | 10.75 |
+| BVI_9_DM  | 2.79  |
+| BVI_7_DS  | low   |
+| BVI_8_DS  | 5.83  |
+| BVI_9_DS  | 9.43  |
+| BVI3_B    | low   | 
+
+
 
 
 ## Extraction 2 -- Oct 16 & 17
