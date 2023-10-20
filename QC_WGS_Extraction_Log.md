@@ -5,6 +5,27 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 4 -- Oct 20
+| Sample ID | Preserve   | 
+|-----------|------------|
+| BVI_1_DM  | DMSO       |
+| BVI_2_DM  | DMSO       |
+| BVI_3_DM  | DMSO       |
+| BVI_1_DS  | DNA Shield |
+| BVI_2_DS  | DNA Shield |
+| BVI_3_DS  | DNA Shield |
+| BVI4_B    | Blank      | 
+
+Changes to Protocol: 
+- 30 uL proteinase K
+- 15 mg tissue
+- Incubate for 5 hrs at 58C and 600 rpm
+- 1 vol = 250 uL
+
+Notes: 
+- There are no results for this extraction. I forgot to add ethanol before adding the HBC buffer so I had to terminate the extraction. I have reorganized my reagents to prevent this in the future
+
+
 
 ## Extraction 3 -- Oct 19
 | Sample ID | Preserve   | 
