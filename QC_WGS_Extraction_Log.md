@@ -5,6 +5,46 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 5 -- Oct 24
+| Sample ID | Preserve   | 
+|-----------|------------|
+| BVI_1_DM  | DMSO       |
+| BVI_2_DM  | DMSO       |
+| BVI_3_DM  | DMSO       |
+| BVI_4_DM  | DMSO       |
+| BVI_5_DM  | DMSO       |
+| BVI_6_DM  | DMSO       |
+| BVI_1_DS  | DNA Shield |
+| BVI_2_DS  | DNA Shield |
+| BVI_3_DS  | DNA Shield |
+| BVI_4_DS  | DNA Shield |
+| BVI_5_DS  | DNA Shield |
+| BVI_6_DS  | DNA Shield |
+| BVI5_B    | Blank      | 
+
+Changes to Protocol: 
+- 30 uL PK
+- Incubate 4 hrs at 58C and 600 rpm
+- 1 vol = 250 uL 
+
+| Sample ID | QBit  | 
+|-----------|-------|
+| BVI_1_DM  | 33.1  |
+| BVI_2_DM  | 13.85 |
+| BVI_3_DM  | 20    |
+| BVI_4_DM  | 9.65  |
+| BVI_5_DM  | 8.92  |
+| BVI_6_DM  | 7.81  |
+| BVI_1_DS  | 23.2  |
+| BVI_2_DS  | 15.5  |
+| BVI_3_DS  | 10.5  |
+| BVI_4_DS  | 8.29  |
+| BVI_5_DS  | 3.72  |
+| BVI_6_DS  | 2.24  |
+| BVI5_B    | 0     |
+
+
+
 ## Extraction 4 -- Oct 20
 | Sample ID | Preserve   | 
 |-----------|------------|
