@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Dilution 1 -- Oct 27
-![Dilution 1 Table](/Users/willo/Documents/GitHub/QC_WGS_23_Dilution-1.png)
+![Dilution 1 Table](/Users/willo/Documents/GitHub/QC_WGS?QC_WGS_23_Dilution-1.png)
 
 ## Extraction 6 -- Oct 26
 | Sample ID | Preserve   | 
