@@ -20,7 +20,27 @@ tags:
 
 Changes to protocol: 
 - 30 uL PK
-- Incubate 58C and 600 rpm for 4 hrs (9:30am - 1:30pm)
+- Incubate 58C and 600 rpm for 5 hrs (9:30am - 2:30pm)
+- Eluted in 50 uL and then 25 uL instead of x2 50 uL elutions
+- In the clean up eluted in 20 uL instead of 25 uL 
+
+| Sample ID | QBit  | 
+|-----------|-------|
+| BVI_14_DM | 45.3  |
+| BVI_15_DM | 20.4  |
+| BVI_16_DM | 49.4  |
+| BVI_17_DM | 30.9  |
+| BVI_14_DS | 20.4  |
+| BVI_15_DS | 14.1  |
+| BVI_16_DS | 26.4  |
+| BVI_17_DS | 14.15 |
+| BVI7_B    | 0     |
+
+
+Notes: 
+- Overall this extraction went much better then previous extractions with most samples having a high (>30 ng/uL concentration). 2 main changes were made in the elution volumes as well as incubating for 1 extra hour (5 hrs)
+- After digestion 15-DM, 14-DS, and 17-DS had larger clumps of visible tissue left in the tube, however they were significantly smaller then the original pieces so I continued with the extraction
+
 
 
 
