@@ -5,8 +5,27 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 7 --- Oct 30
+| Sample ID | Preserve   | 
+|-----------|------------|
+| BVI_14_DM | DMSO       |
+| BVI_15_DM | DMSO       |
+| BVI_16_DM | DMSO       |
+| BVI_17_DM | DMSO       |
+| BVI_14_DS | DNA Shield |
+| BVI_15_DS | DNA Shield |
+| BVI_16_DS | DNA Shield |
+| BVI_17_DS | DNA Shield |
+| BVI7_B    | Blank      | 
+
+Changes to protocol: 
+- 30 uL PK
+- Incubate 58C and 600 rpm for 4 hrs (9:30am - 1:30pm)
+
+
+
 ## Dilution 1 -- Oct 27
-![Dilution 1 Table](https://raw.github.com/wdunster/QC_WGS_23/Images/QC_WGS_23_Diltuion-1.png)
+![Dilution 1 Table](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_Dilution-1.png)
 
 ## Extraction 6 -- Oct 26
 | Sample ID | Preserve   | 
