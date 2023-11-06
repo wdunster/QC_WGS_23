@@ -5,6 +5,62 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 8 --- Nov 06
+| Sample ID | Preserve   | 
+|-----------|------------|
+| BVI_18_DM | DMSO       |
+| BVI_19_DM | DMSO       |
+| BVI_20_DM | DMSO       |
+| BVI_21_DM | DMSO       |
+| BVI_22_DM | DMSO       |
+| BVI_23_DM | DMSO       |
+| BVI_24_DM | DMSO       |
+| BVI_25_DM | DMSO       |
+| BVI_26_DM | DMSO       |
+| BVI_18_DS | DNA Shield |
+| BVI_19_DS | DNA Shield |
+| BVI_20_DS | DNA Shield |
+| BVI_21_DS | DNA Shield |
+| BVI_22_DS | DNA Shield |
+| BVI_23_DS | DNA Shield |
+| BVI_24_DS | DNA Shield |
+| BVI_25_DS | DNA Shield |
+| BVI_26_DS | DNA Shield |
+| BVI8_B    | Blank      | 
+
+Changes to protocol: 
+- 30 uL PK
+- Incubate 58C and 600 rpm for 5 hrs (10:00am - 3:00pm)
+- Eluted in 100 uL total (x2 50uL elutions)
+
+Notes: 
+- I did not have time to clean up today. I will clean up and quantify tomorrow
+- I accidentlly swapped BVI-21 DS and BVI-22 DS so I had to get rid of both samples. Hopefully the DMSO version has amplified adequately. 
+- The extraction definetly takes much longer with more samples
+
+| Sample ID | Qbit   | 
+|-----------|------------|
+| BVI_18_DM |        |
+| BVI_19_DM |        |
+| BVI_20_DM |       |
+| BVI_21_DM |       |
+| BVI_22_DM |        |
+| BVI_23_DM |        |
+| BVI_24_DM |        |
+| BVI_25_DM |        |
+| BVI_26_DM |        |
+| BVI_18_DS |   |
+| BVI_19_DS |   |
+| BVI_20_DS |  |
+| BVI_21_DS |   |
+| BVI_22_DS |   |
+| BVI_23_DS |   |
+| BVI_24_DS |   |
+| BVI_25_DS |   |
+| BVI_26_DS |  |
+| BVI8_B    |      | 
+
+
 ## Extraction 7 --- Oct 30
 | Sample ID | Preserve   | 
 |-----------|------------|
