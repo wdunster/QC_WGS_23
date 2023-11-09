@@ -38,27 +38,27 @@ Notes:
 - I accidentlly swapped BVI-21 DS and BVI-22 DS so I had to get rid of both samples. Hopefully the DMSO version has amplified adequately. 
 - The extraction definetly takes much longer with more samples
 
-| Sample ID | Qbit   | 
-|-----------|------------|
-| BVI_18_DM |        |
-| BVI_19_DM |        |
-| BVI_20_DM |       |
-| BVI_21_DM |       |
-| BVI_22_DM |        |
-| BVI_23_DM |        |
-| BVI_24_DM |        |
-| BVI_25_DM |        |
-| BVI_26_DM |        |
-| BVI_18_DS |   |
-| BVI_19_DS |   |
-| BVI_20_DS |  |
-| BVI_21_DS |   |
-| BVI_22_DS |   |
-| BVI_23_DS |   |
-| BVI_24_DS |   |
-| BVI_25_DS |   |
-| BVI_26_DS |  |
-| BVI8_B    |      | 
+| Sample ID | Qbit | 
+|-----------|------|
+| BVI_18_DM | 6.54 |
+| BVI_19_DM | 27.6 |
+| BVI_20_DM | 16.5 |
+| BVI_21_DM | 30.6 |
+| BVI_22_DM | 48.7 |
+| BVI_23_DM | 6.1  |
+| BVI_24_DM | 7.61 |
+| BVI_25_DM | 24.8 |
+| BVI_26_DM | 28.4 |
+| BVI_18_DS | 26.7 |
+| BVI_19_DS | 49.6 |
+| BVI_20_DS | 3.19 |
+| BVI_21_DS | --   |
+| BVI_22_DS | --   |
+| BVI_23_DS | 11.0 |
+| BVI_24_DS | 21.4 |
+| BVI_25_DS | 9.19 |
+| BVI_26_DS | 20.3 |
+| BVI8_B    | 0    | 
 
 
 ## Extraction 7 --- Oct 30

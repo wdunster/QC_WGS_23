@@ -5,6 +5,27 @@ categories: QC WGS Library Prep
 tags: 
 ---
 
+## Lib Prep 2 -- Nov 09
+ Sample ID | Nextera XT index Location | Index sequence | Qbit |
+|----------|---------------------------|----------------|------|
+| BVI-14   | A02                       |                | 7.97 |
+| BVI-15   | B02                       |                | 6.67 |
+| BVI-16   | C02                       |                | 6.71 |
+| BVI-17   | D02                       |                | 4.34 |
+| BVI-23   | E02                       |                | 0    |
+| BVI-24   | F02                       |                | 0    |
+| BVI-25   | G02                       |                | 6.31 |
+| BVI-26   | H02                       |                | 2.09 |
+
+7.97
+6.67
+6.71
+4.34
+0
+0
+6.31
+2.09
+
  ## Lib Prep 1 -- Nov 03
 | Sample ID | Nextera XT index Location | Index sequence | Lib Qbit    |
 |-----------|---------------------------|----------------|-------------|
