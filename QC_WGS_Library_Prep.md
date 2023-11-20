@@ -17,14 +17,9 @@ tags:
 | BVI-25   | G02                       |                | 6.31 |
 | BVI-26   | H02                       |                | 2.09 |
 
-7.97
-6.67
-6.71
-4.34
-0
-0
-6.31
-2.09
+Notes: 
+- Matias still believes this is a good outcome. He suggested that the library prep quality will vary greatly from sample to sample. I will try to do a larger batch next time as I would like to start library prepping in plate format. I think this will save me a lot of time and energy in the long run. I think I should do a dry run through of using a plate as it will definetly be more complicated. I also will not be able to use a whole plate because I have already used 2 columns of the Plate A index. 
+
 
  ## Lib Prep 1 -- Nov 03
 | Sample ID | Nextera XT index Location | Index sequence | Lib Qbit    |
