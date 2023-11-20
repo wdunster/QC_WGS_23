@@ -12,7 +12,11 @@ Notes:
 - [DNA] was very high in almost all samples of the subset I did (22 samples). I diluted in 20uL of tris to increase vol before cleanup 
 - Cleaned 15uL DNA
 
+Quantifying: 
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_ext9.png)
 
+Clean up: 
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_ext9.2.png)
 
 
 ## Extraction 8 --- Nov 06
