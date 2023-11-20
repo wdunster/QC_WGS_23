@@ -5,6 +5,16 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 9 -- Nov 20 
+Quantifying old samples Diana extracted years ago
+
+Notes: 
+- [DNA] was very high in almost all samples of the subset I did (22 samples). I diluted in 20uL of tris to increase vol before cleanup 
+- Cleaned 15uL DNA
+
+
+
+
 ## Extraction 8 --- Nov 06
 | Sample ID | Preserve   | 
 |-----------|------------|
