@@ -5,6 +5,41 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 10 -- Nov 28
+| Sample ID | Preserve | 
+|-----------|----------|
+| BVI_27_Ds | DS       |
+| BVI_28_Ds | DS       |
+| BVI_29_DM | DS       |
+| BVI_30_DM | DS       |
+| BVI_31_DM | DS       |
+| BVI_32_DM | DS       |
+| BVI_33_DM | DS       |
+| BVI_34_DM | DS       |
+| BVI_35_DM | DS       |
+ 
+Changes to Protocol: 
+- incubate at 56C for 15 hours 
+- 2x2 cm tissue -- I think this is still too much though because after the 15 hrs I still have large segments of tissue in the tubes
+
+Notes: 
+- I had more then 750 uL of liquid to load into the minicolumn which was good
+- It seems the original [DNA] is high however most of it is filtered out
+
+| Sample ID | Qbit og | Qbit clean | 
+|-----------|---------|------------|
+| BVI_27_DS | 18.85   | 2.23       |
+| BVI_28_DS |         | 25.5       |
+| BVI_29_DS |         | 29.8       |
+| BVI_30_DS | 82      | 34.9       |
+| BVI_31_DS |         | 11.35      |
+| BVI_32_DS |         | 12.6       |
+| BVI_33_DS |         | 19.6       |
+| BVI_34_DS |         | 6.67       |
+| BVI_35_DS | 16.3    | 7.88       |
+| BVI10_B   |         | 0          |
+
+
 ## Extraction 9 -- Nov 20 
 Quantifying old samples Diana extracted years ago
 
