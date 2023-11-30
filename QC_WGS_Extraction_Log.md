@@ -5,6 +5,25 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 11 -- Nov 30
+| Sample ID | Preserve | 
+|-----------|----------|
+| FL_1      | DS       |
+| FL_2      | DS       |
+| FL_3      | DS       |
+
+Changes to Protocol: 
+
+Notes: 
+- Incubating 8:30am - 1:30pm 
+- These samples produced a super thick and gelatenous upper aqueous layer that I couldn't really pipette. Carlos suggested soaking the samples in molecular water before extracting DNA (these samples were stored in RNA later)
+
+| Sample ID | Qbit og | 
+|-----------|---------|
+| FL_1      | 0       |
+| FL_2      | 5.79    |
+
+
 ## Extraction 10 -- Nov 28
 | Sample ID | Preserve | 
 |-----------|----------|
