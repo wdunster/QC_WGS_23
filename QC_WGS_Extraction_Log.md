@@ -5,6 +5,29 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 12 -- Dec 1 
+| Sample ID | Preserve  | 
+|-----------|-----------|
+| FL_4      | RNA later |
+| FL_5      | RNA later |
+| FL_6      | RNA later |
+
+Changes to protocol: 
+- Soaked all samples in molec water for 3 mins
+
+Notes: 
+- Incubate 8:30am - 1:00pm 
+- Not all the tissue dissolved during the incubation period so I think that may be the cause of the low [DNA]
+
+| Sample ID | Qbit og | Qbit clean |
+|-----------|---------|------------|
+| FL-2      | 5.79    | 0.316      |
+| FL-4      | 19.5    | 3.75       |
+| FL-5      | 11.85   | 2.47       |
+| FL-6      | 3.58    | 0.475      |
+| FL-12-B   | 0       | 0          |
+
+
 ## Extraction 11 -- Nov 30
 | Sample ID | Preserve | 
 |-----------|----------|
