@@ -5,6 +5,43 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 13 -- Dec 4
+
+Extraction 
+| Sample ID | Preserve  | 
+|-----------|-----------|
+| FL_7      | RNA later |
+| FL_20     | RNA later |
+| FL_35     | RNA later |
+
+Changes to Protocol: 
+- No clean up 
+
+Clean up for Puerto Rico Samples 
+| Sample ID | Qbit clean |
+|-----------|------------|
+| PR-F1-36  | 5.48       |
+| PR-F1-2   | 2.19       |
+| PR-F2-54  | 0          |
+| PR-F1-54  | 35         |
+| PR-F1-59  | 27.2       |
+| PR-F1-35  | 21.1       |
+| PR-F1-3   | 53         |
+| PR-F1-57  | 32.5       |
+| PR-F2-18  | 25         |
+| PR-F2-0   | 0          |
+| PR-F2-22  | 4.49       |
+| PR-F2-39  | 61.9       |
+| PR-F2-36  | 57.9       |
+| PR-F2-32  | 28         |
+| PR-F2-26  | 52.1       |
+| PR-F2-8   | 4.06       |
+
+Changes to Protocol: 
+- Increase DNA vol with 20 uL Tris HCL
+- Clean 15 uL DNA
+
+
 ## Extraction 12 -- Dec 1 
 | Sample ID | Preserve  | 
 |-----------|-----------|
