@@ -5,6 +5,13 @@ categories: QC WGS Library Prep
 tags: 
 ---
 
+## Lib Prep 3 -- Dec 5 
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib3.png)
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib3.2.png)
+
+Notes: 
+This prep was about 50% effective. I am hoping to get a slightly better turn out. I think I ran into a little bit of trouble with the multichannel. Overall the PR samples worked well. The unclean FL samples did not work but the cleaned ones did even with low initial concentrations. I was surprised so many BVI samples did not work. I have a few more I can try to push through library prep next week before redoing the ones that have failed. 
+
 ## Lib Prep 2 -- Nov 09
  Sample ID | Nextera XT index Location | Index sequence | Qbit |
 |----------|---------------------------|----------------|------|
