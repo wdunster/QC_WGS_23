@@ -5,6 +5,31 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 14 -- Dec 7 
+
+Cleanup for PR-F samples 
+| Sample ID | Qbit clean | 
+|-----------|------------|
+| PR-F1-5   | 10.25      |
+| PR-F1-30  | 19.75      |
+| PR-F1-58  | 6.14       |
+| PR-F1-19  | 32.9       |
+| PR-F1-56  | 56.3       |
+| PR-F1-39  | 10.1       |
+| PR-F1-8   | 19.35      |
+| PR-F1-9   | 0          |
+| PR-F1-14  | 29.1       |
+| PR-F1-53  | 14.95      |
+| PR-F1-47  | 47.9       |
+| PR-F2-41  | 19.75      |
+| PR-F2-25  | 51.5       |
+| PR-F2-7   | 8.25       |
+| PR-F2-52  | 2.75       |
+| PR-F2-59  | 14.85      |
+
+Notes: 
+- Did not keep PR-F1-9 or PR-FF2-52
+
 ## Extraction 13 -- Dec 4
 
 Extraction 
