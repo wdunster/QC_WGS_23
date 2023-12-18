@@ -5,6 +5,99 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 17 -- Dec 18
+| Sample ID | Preserve | 
+|-----------|----------|
+| NI-1      | DMSO     |
+| NI-3      | DMSO     |
+| NI-5      | DMSO     |
+| NI-7      | DMSO     |
+| NI-9      | DMSO     |
+| NI-11     | DMSO     |
+| NI-13     | DMSO     |
+| NI-15     | DMSO     |
+| NI-17     | DMSO     |
+| NI1-B     | BLANK    |
+
+Notes: 
+- 1 vol = 270 uL 
+- I forgot to dry the membrane before eluting
+- I think I can use larger sections of tissue now. The samples in DMSO broke down really well and were not at all tough like the BVI samples
+
+| Sample ID | Qbit clean | 
+|-----------|------------|
+| NI-1      | 115        |
+| NI-3      | 22.7       |
+| NI-5      | 13.1       |
+| NI-7      | 54.4       |
+| NI-9      | 56.6       |
+| NI-11     | 39         |
+| NI-13     | 0          |
+| NI-15     | 46.8       |
+| NI-17     | 43.8       |
+| NI1-B     | 0          |
+
+
+## Extraction 16 -- Dec 14
+| Sample ID | Preserve  | 
+|-----------|-----------|
+| FL_30     | RNA later |
+| FL_31     | RNA later |
+| FL_32     | RNA later |
+| FL_33     | RNA later |
+| FL_34     | RNA later |
+
+Notes: 
+These are the last FL samples and we have struggled with extracting material for these. Moving forward I will extract the NI samples and the FL ones may be extras. I used the werid mucus layer in all these extractions just to see what would happen 
+
+I cleaned FL-7 and FL-35 that were left uncleaned to test if non clean DNA would create good libs
+
+| Sample ID | Qbit clean | 
+|-----------|------------|
+| FL_30     | 8.13       |
+| FL_31     | 0          |
+| FL_32     | 43.5       |
+| FL_33     | 21.2       |
+| FL_34     | 0          |
+| FL_7      | 0          |
+| FL_35     | 5.61       |
+
+
+
+## Extraction 15 -- Dec 11 
+| Sample ID | Preserve  | 
+|-----------|-----------|
+| FL_8      | RNA later |
+| FL_9      | RNA later |
+| FL_10     | RNA later |
+| FL_11     | RNA later |
+| FL_12     | RNA later |
+| FL_13     | RNA later |
+| FL_14     | RNA later |
+| FL_15     | RNA later |
+| FL_16     | RNA later |
+| FL_17     | RNA later |
+| FL_18     | RNA later |
+| FL_19     | RNA later |
+| FL_21     | RNA later |
+| FL_22     | RNA later |
+| FL_23     | RNA later |
+| FL_24     | RNA later |
+| FL_25     | RNA later |
+| FL_26     | RNA later |
+| FL_27     | RNA later |
+| FL_28     | RNA later |
+| FL_39     | RNA later |
+| FL_30     | RNA later |
+| FL_31     | RNA later |
+
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_ext15.2.png)
+
+Notes: 
+- The majority of samples did not seperate organic and aqueous layers once chloroform was added
+
+
+
 ## Extraction 14 -- Dec 7 
 
 Cleanup for PR-F samples 
