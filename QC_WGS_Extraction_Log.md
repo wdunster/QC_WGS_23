@@ -5,6 +5,55 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 18 -- Dec 19
+| Sample ID | Preserve | 
+|-----------|----------|
+| NI-2      | DMSO     |
+| NI-4      | DMSO     |
+| NI-6      | DMSO     |
+| NI-8      | DMSO     |
+| NI-10     | DMSO     |
+| NI-12     | DMSO     |
+| NI-14     | DMSO     |
+| NI-16     | DMSO     |
+| NI-18     | DMSO     |
+| NI-20     | DMSO     |
+| NI-22     | DMSO     |
+| NI-24     | DMSO     |
+| NI-26     | DMSO     |
+| NI-28     | DMSO     |
+| NI-30     | DMSO     |
+| NI-32     | DMSO     |
+| NI2-B     | BLANK    |
+
+Notes: 
+- I used a lot more tissue than in previous extractions. The NI tissue samples are very fleshy and seems to degrade really quickly (in a good way). I did large cubes for the fist 8 samples and slightly smaller cubes for the second set of 8
+- All samples were soaked in molec water for atleast 5 mins
+- 1 vol = 450 uL for most samples 
+        = 400 for NI-10
+        = 100 for NI-20 and NI2-B
+
+| Sample ID | Qbit clean | 
+|-----------|------------|
+| NI-2      | 166        |
+| NI-4      | 286        |
+| NI-6      | 103        |
+| NI-8      | 155.5      |
+| NI-10     | 63.8       |
+| NI-12     | 126        |
+| NI-14     | 218        |
+| NI-16     | 196        |
+| NI-18     | 67.3       |
+| NI-20     | 34.6       |
+| NI-22     | 43.1       |
+| NI-24     | 90.4       |
+| NI-26     | 17.8       |
+| NI-28     | 31.3       |
+| NI-30     | 144.5      |
+| NI-32     | 37.4       |
+| NI2-B     | 0          |
+
+
 ## Extraction 17 -- Dec 18
 | Sample ID | Preserve | 
 |-----------|----------|
