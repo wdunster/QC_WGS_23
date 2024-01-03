@@ -5,6 +5,28 @@ categories: QC WGS Library Prep
 tags: 
 ---
 
+## Lib Prep 5 -- Jan 03
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib5.png)
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib5.2.png)
+
+Notes: 
+At this point I have 
+13 BVI 
+11 PR-F
+7 FL
+14 NI
+6 PR-other
+
+I need to redo failed samples next and then go back and do a few more PR-F sample using FL or BVI indexes that failed twice
+
+## Lib Prep 4 -- Jan 02
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib4.png)
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib4.2.png)
+
+Notes: 
+- The eppendorf < 1uL multichannel was giving me a lot of trouble so i switched over to single for a few things. 
+- I think my plan is to clean these samples today and then quanntify them tomorrow with the other 32 samples on the plate reader. I do need to verify the plate reader because of the issues with Cassie's samples so tomorrow I will qbit column A of all rows and then plate read all the samples to compare. 
+
 ## Lib Prep 3 -- Dec 5 
 ![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib3.png)
 ![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib3.2.png)
