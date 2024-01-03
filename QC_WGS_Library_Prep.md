@@ -6,16 +6,13 @@ tags:
 ---
 
 ## Lib Prep 5 -- Jan 03
+
 ![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib5.png)
 ![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib5.2.png)
 
 Notes: 
 At this point I have 
-13 BVI 
-11 PR-F
-7 FL
-14 NI
-6 PR-other
+13 BVI, 11 PR-F, 7 FL, 14 NI, 6 PR-other
 
 I need to redo failed samples next and then go back and do a few more PR-F sample using FL or BVI indexes that failed twice
 
