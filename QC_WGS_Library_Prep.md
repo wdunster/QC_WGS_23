@@ -5,9 +5,32 @@ categories: QC WGS Library Prep
 tags: 
 ---
 
+## Lib Prep 6 -- Jan 08
+Notes: 
+- I redid samples that had failed previously to see if they would pass the second time. None of the FL samples improved but other samples from BVI, NI, and PR did. 
+
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib6.png)
+
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib6.2.png)
+
+- [Tape Station Report](https://github.com/wdunster/QC_WGS_23/blob/main/QC_WGS_PlateA_TapeReport_01-08-24_WD.pdf)
+
+### Final sample set 
+
+| Location   | Num Libraries |
+|------------|---------------|
+| BVI        | 16            |
+| FL         | 9             |
+| NI         | 21            |
+| PR-Fajardo | 17            |
+| PR-Curazo  | 9             |
+
+
+
 ## Lib Prep 5 -- Jan 03
 
 ![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib5.png)
+
 ![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib5.2.png)
 
 Notes: 
@@ -32,16 +55,16 @@ Notes:
 This prep was about 50% effective. I am hoping to get a slightly better turn out. I think I ran into a little bit of trouble with the multichannel. Overall the PR samples worked well. The unclean FL samples did not work but the cleaned ones did even with low initial concentrations. I was surprised so many BVI samples did not work. I have a few more I can try to push through library prep next week before redoing the ones that have failed. 
 
 ## Lib Prep 2 -- Nov 09
- Sample ID | Nextera XT index Location | Index sequence | Qbit |
-|----------|---------------------------|----------------|------|
-| BVI-14   | A02                       |                | 7.97 |
-| BVI-15   | B02                       |                | 6.67 |
-| BVI-16   | C02                       |                | 6.71 |
-| BVI-17   | D02                       |                | 4.34 |
-| BVI-23   | E02                       |                | 0    |
-| BVI-24   | F02                       |                | 0    |
-| BVI-25   | G02                       |                | 6.31 |
-| BVI-26   | H02                       |                | 2.09 |
+| Sample ID | Nextera XT index Location | Index sequence | Qbit |
+|-----------|---------------------------|----------------|------|
+| BVI-14    | A02                       |                | 7.97 |
+| BVI-15    | B02                       |                | 6.67 |
+| BVI-16    | C02                       |                | 6.71 |
+| BVI-17    | D02                       |                | 4.34 |
+| BVI-23    | E02                       |                | 0    |
+| BVI-24    | F02                       |                | 0    |
+| BVI-25    | G02                       |                | 6.31 |
+| BVI-26    | H02                       |                | 2.09 |
 
 Notes: 
 - Matias still believes this is a good outcome. He suggested that the library prep quality will vary greatly from sample to sample. I will try to do a larger batch next time as I would like to start library prepping in plate format. I think this will save me a lot of time and energy in the long run. I think I should do a dry run through of using a plate as it will definetly be more complicated. I also will not be able to use a whole plate because I have already used 2 columns of the Plate A index. 
