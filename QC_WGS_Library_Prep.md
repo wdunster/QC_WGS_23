@@ -5,6 +5,17 @@ categories: QC WGS Library Prep
 tags: 
 ---
 
+## Pooling -- Jan 16
+- Pooled libraries into 2 pools 
+    - Pool A = 128 uL total, 32 samples, 4 uL per sample, 10nM samples
+    - Pool B - 156 uL total, 39 samples, 4 uL per sample, 10nM samples 
+- Dilution to 10 nM --> pooling 4 uL per sample
+
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_pool1.png)
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_pool1.2.png)
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_pool1.3.png)
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_pool1.4.png)
+
 ## Lib Prep 6 -- Jan 08
 Notes: 
 - I redid samples that had failed previously to see if they would pass the second time. None of the FL samples improved but other samples from BVI, NI, and PR did. 
