@@ -5,6 +5,34 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 19 -- Jan 29 
+| Sample ID | Preserve | 
+|-----------|----------|
+| BZ-1      | DMSO     |
+| BZ-3      | DMSO     |
+| BZ-5      | DMSO     |
+| BZ-7      | DMSO     |
+| BZ-9      | DMSO     |
+| BZ-11     | DMSO     |
+| BZ-13     | DMSO     |
+| BZ-15     | DMSO     |
+| BZ-17     | DMSO     |
+| BZ-19     | DMSO     |
+| BZ-21     | DMSO     |
+| BZ-23     | DMSO     |
+| BZ-25     | DMSO     |
+| BZ-27     | DMSO     |
+| BZ-29     | DMSO     |
+| BZ-B1     | DMSO     |
+
+Notes: 
+- Incubation = 9:20am to 2:20pm 
+- 1 vol = 400uL which is better than my original extractions with BVI samples. 
+- These DMSO samples are more fresh and not as tough as the BVI samples 
+
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_ext19.png)
+
+
 ## Extraction 18 -- Dec 19
 | Sample ID | Preserve | 
 |-----------|----------|
