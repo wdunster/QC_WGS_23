@@ -5,6 +5,14 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extractin 20 -- Feb 26
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_ext20.png)
+
+Notes: 
+- Changed naming scheme to fit better with the dDocent program 
+- Incubation 9am - 2:15pm shake at 58C and 600 rpm
+- 1 vol = 450 uL 
+
 ## Extraction 19 -- Jan 29 
 | Sample ID | Preserve | 
 |-----------|----------|
