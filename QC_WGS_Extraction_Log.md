@@ -5,6 +5,17 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 21 -- Mar 4
+
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_ext21.png)
+
+Notes: 
+- Incubation 
+- sed DNA shield samples so they were not soaked in molec water before extracting 
+- 1 vol = 420 uL 
+- 6, 8, 14, and 18 were a weird consistency after adding chlorophorm and centrifuging. They were thick and it was much harder to pipette the upper aqueous layer
+- All samples had good concentration of DNA. There was not difference between these DNA Shield samples and the DMSO samples I have been processing
+
 ## Extractin 20 -- Feb 26
 ![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_ext20.png)
 
