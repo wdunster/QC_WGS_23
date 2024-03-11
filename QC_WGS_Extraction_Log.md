@@ -5,6 +5,16 @@ categories: QC WGS Extraction
 tags: 
 ---
 
+## Extraction 22 -- Mar 11
+
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_ext22.png)
+
+Notes: 
+- Incubation 9:15am - 2:15pm 
+- 1 vol = 440 uL 
+- These samples have been left in DMSO longer then the first extraction for Honduras and the texture of the samples is visually starting to change. They are becoming more hard and gummy
+- Most samples had good concentrations of DNA with only 2 below 20 ng/uL. These two samples were tubes with less DMSO than other ones
+
 ## Extraction 21 -- Mar 4
 
 ![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_ext21.png)
