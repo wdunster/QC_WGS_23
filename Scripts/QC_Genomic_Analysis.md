@@ -200,42 +200,7 @@ cp sequences_genohub2422942/FL* ddocent_test/
 ```
 Submitted batch job 300758
 
-#trying to run process_radtags
-nano run_process_radtags.sh
-```{bash}
-#!/bin/bash
-#SBATCH -t 48:00:00
-#SBATCH --nodes=1 --ntasks-per-node=20
-#SBATCH --mail-type=BEGIN  --mail-user=willow_dunster@uri.edu
-#SBATCH --mail-type=END  --mail-user=willow_dunster@uri.edu
-#SBATCH --mail-type=FAIL  --mail-user=willow_dunster@uri.edu
-cd $SLURM_SUBMIT_DIR
-# Define input file pairs
-input_pairs=(
-    "FL-10_S30_R1_001.fastq.gz FL-10_S30_R2_001.fastq.gz"
-    "FL-35_S41_R1_001.fastq.gz FL-35_S41_R2_001.fastq.gz"
-    "FL-9_S29_R1_001.fastq.gz FL-9_S29_R2_001.fastq.gz"
-    "FL-4_S16_R1_001.fastq.gz FL-4_S16_R2_001.fastq.gz"
-    "FL-35_S32_R1_001.fastq.gz FL-35_S32_R2_001.fastq.gz"
-    "FL-5_S17_R1_001.fastq.gz FL-5_S17_R2_001.fastq.gz"
-    # Add more pairs as needed
-)
 
-# Loop through input file pairs
-for input_pair in "${input_pairs[@]}"; do
-    # Split the input pair into individual file names
-    input_files=($input_pair)
-    
-    # Run process_radtags for the current input pair
-    process_radtags -1 "${input_files[0]}" -2 "${input_files[1]}" \
-                    -o ./samples/ -b ./barcodes/barcodes -e sbfI -r -c -q
-done
-```
-Submitted batch job 301160
-This job failed error: "command process_radtags not found" 
-
-I realized I have not made a conda environment for downloaded any of the dDocent program. This needs to be done first before commands can be executed. 
-Following Jill Ashey's 
 
 Load the Miniconda environment 
 ```{bash}

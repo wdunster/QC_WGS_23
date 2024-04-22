@@ -5,6 +5,21 @@ categories: QC WGS Library Prep
 tags: 
 ---
 
+## Lib Prep 8 -- Apr 22
+- Lib prep for remaining HO samples and samples that failed lib prep from the first run through 
+
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib8.png)
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib8.2.png)
+
+
+## Lib Prep 7 -- Apr 19 
+- Lib prep for BZ and HO samples (32 samples)
+
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib7.png)
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib7.2.png)
+
+
+
 ## Pooling -- Jan 16
 - Pooled libraries into 2 pools 
     - Pool A = 128 uL total, 32 samples, 4 uL per sample, 10nM samples
