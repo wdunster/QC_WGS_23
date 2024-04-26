@@ -69,51 +69,46 @@ Supplied by PRADA Lab:
 
 ## <a name="dig"></a> **Digestion**
 
-Day 1:
-
-
 Prep: 
 
 - Molecular water and a beaker for washing samples in DMSO
 - n scalpal blades
 - n 1.5 mL microcentrifuge tubes
-- preheat bead bath to 56C
+- preheat thermomixer to 58C
 
 
 Steps: 
 
-1. Submerge samples preserved in DMSO in Pure Molecular Water to remove salt
+1. Submerge samples preserved in DMSO in Pure Molecular Water to remove salt, soak for 5 mins, then move to a clean microcentrifuge tube
 
-2. Skip homogenization step as QC tissue is very muscular and will not present the issue typically associated with mollusc DNA
+2. Using a scalpal, cut a small 2x2 cm cube of tissue from the original sample and place in a 1.5mL microcentrifuge tube. This should be around 30 mg of tissue
 
-3. Using a scalpal, cut a small 2x2 cm cube of tissue from the original sample and place in a 1.5mL microcentrifuge tube. This should be around 30 mg of tissue
+3. Add 350 uL of ML1 Buffer AND 25 uL Proteinase K Solution. Votex to mix
 
-4. dd 350 uL of ML1 Buffer AND 25 uL Proteinase K Solution. Votex to mix
+4. Incubate for 4-5hrs at 58C and 600 rpm
 
-5. Incubate 15 hrs at 56C in thermomixer
-
-6. Clean scalpal blades as follows: 3x rinse with 80% bleach; 2x rinse with 70% EtOH; 2x rinse with DI 2
+5. Clean scalpal blades as follows: 5x rinse in water, 3x rinse with 80% bleach, 5x rinse in water, 3x rinse with 70% EtOH; 2x rinse with DI 2
  
 
 
 ## <a name="sep"></a> **Separatng DNA**
 
-Day 2: 
-
-
 Prep: 
-- Heat bead bath to 70C
+- Preheat thermoxier to 70C
 - obtain n 1.5 mL microcentrifuge tubes
+- PPE safety glasses
 
 
 Steps: 
 
-7. Add 350 uL Chloroform:isoamyl alcohol (24:1). Vortex to mix
+6. Working in the fume hood, with safety glasses, add 350 uL Chloroform:isoamyl alcohol (24:1). Vortex to mix
 
-8. Centrifuge 10,000g for 2 mins at room temp
+7. Centrifuge 10,000g for 2 mins at room temp
 
-9. Transfer the upper aqueous phase to a clean 1.5 mL microcentrifuge tube. Avoid the milky interface
-
+8. Transfer the upper aqueous phase to a clean 1.5 mL microcentrifuge tube. Avoid the milky interface
+  
+9. Record the volume of liquid removed
+    
 10. Add 1 volume BL Buffer (equal to the amount of liquid from the upper aqueous phase) and 10 uL RNase A. Vortex at max speed for 15 sec
 
 11. Incubate at 70C for 10 mins
@@ -123,9 +118,6 @@ Steps:
 
 
 ## <a name="prec"></a> **Precipitating DNA**
-
-Day 2 cont: 
-
 
 Prep: 
 - Obtain n HiBind Mini Columns
