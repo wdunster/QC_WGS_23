@@ -5,6 +5,14 @@ categories: QC WGS Library Prep
 tags: 
 ---
 
+## Lib Prep 9 -- Apr 26
+- Lib prep for FL samples 
+- Training Juliane in wgs libs
+- FL_30N and FL_21N were diluted to 1ng/uL in 50uL to try and increase rxn success 
+
+![](https://github.com/wdunster/QC_WGS_23/blob/main/Images/QC_WGS_23_lib9.png)
+
+
 ## Lib Prep 8 -- Apr 22
 - Lib prep for remaining HO samples and samples that failed lib prep from the first run through 
 
